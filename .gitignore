@@ -9,6 +9,7 @@ venv/
 .vscode/
 
 # Jupyter notebook checkpoints
-mynotes/.ipynb_checkpoints/
+notes/.ipynb_checkpoints/
+exercises/.ipynb_checkpoints/
 
 a2_files/
